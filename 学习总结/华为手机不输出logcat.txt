@@ -1,0 +1,2 @@
+华为手机Android Studio开发不显示Logcat解决办法http://blog.csdn.net/leyvi_hsing/article/details/54015705
+
